@@ -5,7 +5,7 @@ In this code we have used Digikstra algorithm to find distance betweeen two node
 
 Here we have React js in the front end to show a easy User Interface to interact for user inputs for source and destination with the Traffic.
 
-Instructrions -
+Instructions -
 
 1 - Open the Project in Eclipse or any other IDE or you can run it from the terminal as well if no ide available. 2 - Open React js project foler in the terminal and run -> npm install 3 - Open terminal in the root folder and run -> mvn clean install 4 - Open Target folder where the Jar file gets generated on successful build. 5 - Run Jar file by using command - Java -jar RohitKasture-1.0.0_SNAPSHOT.jar
 
